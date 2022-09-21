@@ -1,4 +1,4 @@
-# Hi im FrostyMax 👋 But my real name is Max Medina!
+# Hi im FrostyMax 👋!
 
 ## I'm a beginner but passionate programmer 🧡!
 
