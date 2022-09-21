@@ -20,13 +20,13 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:1rem;" />
 
-<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/29/29595.png" style="padding-right:1rem;" />
+<img align="left" alt="SQL" width="26px" src="https://th.bing.com/th/id/OIP.MCXiwJ1XrvJNAcLilKikygHaF7?pid=ImgDet&rs=1" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:1rem;" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="padding-right:1rem;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://th.bing.com/th/id/R.1591954549cb4f45870949c4de53cdaf?rik=RcEP3rK4%2bsT4TA&riu=http%3a%2f%2fumaar.github.io%2fexperiments%2fgithub-3d-logo%2frender-2.jpg&ehk=VpOrW33N7blW8q7XMTSvR8krYhTyJ7ruH%2f%2fmUKlWXYM%3d&risl=&pid=ImgRaw&r=0"/>
 
 <img align="left" alt="Destiny" width="26px" src="https://images.everyeye.it/img-notizie/destiny-2-patch-2-8-stagione-dell-intrepido-presto-prove-osiride-v7-432573.jpg"/>
 
