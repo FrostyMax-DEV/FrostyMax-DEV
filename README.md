@@ -28,8 +28,6 @@
 
 <img align="left" alt="GitHub" width="64px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"/>
 
-<img align="left" alt="Destiny" width="64px" src="https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EGS_Destiny2Lightfall_Bungie_AddOn_G1A_00_1920x1080-484927180fa94217cdce9e1bd5aa5e9f"/>
-
 <br />
 <br />
 
