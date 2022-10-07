@@ -1,4 +1,4 @@
-# Hi im FrostyMax 👋!
+# Hi im ItzNexus 👋!
 
 ## I'm a beginner but passionate programmer 🧡!
 
